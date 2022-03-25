@@ -1,4 +1,3 @@
-### Hi Xmengnet here 👋
 
 <h1 align="center">👋Xmengnet👋</h1>
 
