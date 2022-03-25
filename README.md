@@ -3,12 +3,6 @@
 <h1 align="center">👋Xmengnet👋</h1>
 
 <p align="center">
-
-  <a href="https://t.me/Skykeyjoker" target="_blank"><img src="https://img.shields.io/badge/Telegram-262968.svg?&style=flat-square&logo=telegram&logoColor=white" alt="telegram"></a>
-  <a href="https://www.zhihu.com/people/skykeyjoker" target="_blank"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu"></a>
-</p>
-
-<p align="center">
 <blockquote>人生最大的痛苦莫过于梦醒时发现无路可走。</blockquote>
 </p>
 </br>
