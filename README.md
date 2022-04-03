@@ -8,7 +8,7 @@
 
 <p align="center">
 Welcome, the
-<a href="https://github.com/xmengnet" target="_blank"><img src="https://count.getloli.com/get/@Xmengnet?theme=asoul" alt="Skykey visitor counter"></a>
+<a href="https://github.com/xmengnet" target="_blank"><img src="https://count.getloli.com/get/@Xmengnet?theme=asoul" alt="Xmengnet visitor counter"></a>
 th vistor!
 </p>
 
